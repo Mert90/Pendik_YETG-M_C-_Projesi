@@ -1,1 +1,1 @@
-# Pendik_YETG-M_C#Projesi
+# Bu Projede  Öğrenci Ekleme ve Eklenen Öğrencileri gösteren bir konsol uygulaması yapılmıstır
