@@ -1,1 +1,1 @@
-# Pendik_YETG-M_C-_Projesi
+# Pendik_YETG-M_C#Projesi
